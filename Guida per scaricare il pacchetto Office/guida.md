@@ -6,4 +6,4 @@ Per richiedere il pacchetto Office e attivare l'account Teams seguite le istruzi
 
 # How to get access to your Office Suite and log into Uniba MS Teams
 
-You can find a tutorial in the PDF file in this folder. Sadly, it is in English. Just ask for help to your italian-speaking friends.
+You can find a tutorial in the PDF file in this folder. Sadly, it is in Italian. Just ask for help to your italian-speaking friends.
